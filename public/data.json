@@ -1,0 +1,2944 @@
+[
+  {
+    "id": "16103060",
+    "title": "I'll Cover You",
+    "isbn": "",
+    "isbn13": "9780988525009",
+    "asin": "",
+    "kindle_asin": "",
+    "marketplace_id": "",
+    "country_code": "FR",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350947541l/16103060._SX98_.jpg",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350947541l/16103060._SY75_.jpg",
+    "publication_year": "2012",
+    "publication_month": "10",
+    "publication_day": "18",
+    "publisher": "Gable Books",
+    "language_code": "eng",
+    "is_ebook": "true",
+    "description": "Kate Stewart has the weight of the world on her shoulders. As the first female President of the United States, she's got a lot on her mind. However, it's a certain Secret Service agent named Emmy Harris whom she can't get out of her head . . . or her heart. Their searing and erotic passion for one another causes quite the stir in the White House. But will their passion be enough to survive the stresses of being in the public eye? Or will they both be left burned?",
+    "work": {
+      "id": { "_": "21914130", "type": "integer" },
+      "books_count": { "_": "2", "type": "integer" },
+      "best_book_id": { "_": "16103060", "type": "integer" },
+      "reviews_count": { "_": "264", "type": "integer" },
+      "ratings_sum": { "_": "554", "type": "integer" },
+      "ratings_count": { "_": "156", "type": "integer" },
+      "text_reviews_count": { "_": "7", "type": "integer" },
+      "original_publication_year": { "_": "2012", "type": "integer" },
+      "original_publication_month": { "_": "10", "type": "integer" },
+      "original_publication_day": { "_": "18", "type": "integer" },
+      "original_title": "",
+      "original_language_id": { "type": "integer", "nil": "true" },
+      "media_type": "book",
+      "rating_dist": "5:46|4:35|3:47|2:15|1:13|total:156",
+      "desc_user_id": { "_": "24492797", "type": "integer" },
+      "default_chaptering_book_id": { "type": "integer", "nil": "true" },
+      "default_description_language_code": { "nil": "true" },
+      "work_uri": "kca://work/amzn1.gr.work.v1.ODfsz8kI76DFjHWZz_tucA"
+    },
+    "average_rating": "3.55",
+    "num_pages": "241",
+    "format": "ebook",
+    "edition_information": "",
+    "ratings_count": "156",
+    "text_reviews_count": "7",
+    "url": "https://www.goodreads.com/book/show/16103060-i-ll-cover-you",
+    "link": "https://www.goodreads.com/book/show/16103060-i-ll-cover-you",
+    "authors": {
+      "author": {
+        "id": "6562508",
+        "name": "A.C. Grey",
+        "role": "",
+        "image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png\n",
+          "nophoto": "true"
+        },
+        "small_image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png\n",
+          "nophoto": "true"
+        },
+        "link": "https://www.goodreads.com/author/show/6562508.A_C_Grey",
+        "average_rating": "3.69",
+        "ratings_count": "250",
+        "text_reviews_count": "12"
+      }
+    },
+    "reviews_widget": "\n \n <style>\n #goodreads-widget {\n font-family: georgia, serif;\n padding: 18px 0;\n width:565px;\n }\n #goodreads-widget h1 {\n font-weight:normal;\n font-size: 16px;\n border-bottom: 1px solid #BBB596;\n margin-bottom: 0;\n }\n #goodreads-widget a {\n text-decoration: none;\n color:#660;\n }\n iframe{\n background-color: #fff;\n }\n #goodreads-widget a:hover { text-decoration: underline; }\n #goodreads-widget a:active {\n color:#660;\n }\n #gr_footer {\n width: 100%;\n border-top: 1px solid #BBB596;\n text-align: right;\n }\n #goodreads-widget .gr_branding{\n color: #382110;\n font-size: 11px;\n text-decoration: none;\n font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n }\n</style>\n<div id=\"goodreads-widget\">\n <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/16103060-i-ll-cover-you\">I&#39;ll Cover You Reviews</a></h1></div>\n <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=9780988525009&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\" width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n <div id=\"gr_footer\">\n <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" href=\"https://www.goodreads.com/book/show/16103060-i-ll-cover-you?utm_medium=api&amp;utm_source=reviews_widget\">Reviews from Goodreads.com</a>\n </div>\n</div>\n\n \n ",
+    "popular_shelves": {
+      "shelf": [
+        { "name": "to-read", "count": "66" },
+        { "name": "currently-reading", "count": "9" },
+        { "name": "lesbian", "count": "5" },
+        { "name": "romance", "count": "5" },
+        { "name": "lgbt", "count": "3" },
+        { "name": "ff", "count": "3" },
+        { "name": "f-f", "count": "3" },
+        { "name": "glbt", "count": "3" },
+        { "name": "political", "count": "2" },
+        { "name": "kindle", "count": "2" },
+        { "name": "contemporary", "count": "2" },
+        { "name": "lesfic", "count": "2" },
+        { "name": "bodyguards", "count": "2" },
+        { "name": "later", "count": "1" },
+        { "name": "realistic", "count": "1" },
+        { "name": "i-will", "count": "1" },
+        { "name": "pc-k", "count": "1" },
+        { "name": "stand-alone", "count": "1" },
+        { "name": "got", "count": "1" },
+        { "name": "don-t-remember-reading", "count": "1" },
+        { "name": "writing", "count": "1" },
+        { "name": "sirrah", "count": "1" },
+        { "name": "aldiko", "count": "1" },
+        { "name": "read-lesfic", "count": "1" },
+        { "name": "best-ff-couples", "count": "1" },
+        { "name": "e-reader", "count": "1" },
+        { "name": "read-2018", "count": "1" },
+        { "name": "f-f-workplace", "count": "1" },
+        { "name": "f-f-women-in-uniform", "count": "1" },
+        { "name": "f-f-politics", "count": "1" },
+        { "name": "e-library", "count": "1" },
+        { "name": "read-lgbt", "count": "1" },
+        { "name": "reading-challenge", "count": "1" },
+        { "name": "04-stars", "count": "1" },
+        { "name": "read-in-2016", "count": "1" },
+        { "name": "have", "count": "1" },
+        { "name": "lgbt-fic", "count": "1" },
+        { "name": "washington-dc", "count": "1" },
+        { "name": "romance-drama", "count": "1" },
+        { "name": "default", "count": "1" },
+        { "name": "ff-romance", "count": "1" },
+        { "name": "fbi-secret-service", "count": "1" },
+        { "name": "erotica", "count": "1" },
+        { "name": "did-not-finish", "count": "1" },
+        { "name": "harlequin-er", "count": "1" },
+        { "name": "good-just-ok", "count": "1" },
+        { "name": "my-stuff-done", "count": "1" },
+        { "name": "e-books", "count": "1" },
+        { "name": "electronic", "count": "1" },
+        { "name": "calibre", "count": "1" },
+        { "name": "l-books", "count": "1" },
+        { "name": "suspense-thiller", "count": "1" },
+        { "name": "kindle-book", "count": "1" },
+        { "name": "oya", "count": "1" },
+        { "name": "published-2012", "count": "1" },
+        { "name": "own-it-not-yet-read", "count": "1" },
+        { "name": "lgbt-character", "count": "1" },
+        { "name": "lesbian-fiction", "count": "1" },
+        { "name": "goodreads-author", "count": "1" },
+        { "name": "f-f-romance", "count": "1" },
+        { "name": "ff-romances", "count": "1" },
+        { "name": "random", "count": "1" },
+        { "name": "fiction-book", "count": "1" },
+        { "name": "a-sure-thing", "count": "-1" },
+        { "name": "2015-my-stuff-done", "count": "-1" }
+      ]
+    },
+    "book_links": {
+      "book_link": {
+        "id": "8",
+        "name": "Libraries",
+        "link": "https://www.goodreads.com/book_link/follow/8"
+      }
+    },
+    "buy_links": {
+      "buy_link": [
+        {
+          "id": "1",
+          "name": "Amazon",
+          "link": "https://www.goodreads.com/book_link/follow/1"
+        },
+        {
+          "id": "10",
+          "name": "Audible",
+          "link": "https://www.goodreads.com/book_link/follow/10"
+        },
+        {
+          "id": "3",
+          "name": "Barnes & Noble",
+          "link": "https://www.goodreads.com/book_link/follow/3"
+        },
+        {
+          "id": "1027",
+          "name": "Walmart eBooks",
+          "link": "https://www.goodreads.com/book_link/follow/1027"
+        },
+        {
+          "id": "2102",
+          "name": "Apple Books",
+          "link": "https://www.goodreads.com/book_link/follow/2102"
+        },
+        {
+          "id": "8036",
+          "name": "Google Play",
+          "link": "https://www.goodreads.com/book_link/follow/8036"
+        },
+        {
+          "id": "4",
+          "name": "Abebooks",
+          "link": "https://www.goodreads.com/book_link/follow/4"
+        },
+        {
+          "id": "882",
+          "name": "Book Depository",
+          "link": "https://www.goodreads.com/book_link/follow/882"
+        },
+        {
+          "id": "5",
+          "name": "Alibris",
+          "link": "https://www.goodreads.com/book_link/follow/5"
+        },
+        {
+          "id": "9",
+          "name": "Indigo",
+          "link": "https://www.goodreads.com/book_link/follow/9"
+        },
+        {
+          "id": "107",
+          "name": "Better World Books",
+          "link": "https://www.goodreads.com/book_link/follow/107"
+        },
+        {
+          "id": "7",
+          "name": "IndieBound",
+          "link": "https://www.goodreads.com/book_link/follow/7"
+        }
+      ]
+    },
+    "series_works": "\n \n ",
+    "similar_books": {
+      "book": [
+        {
+          "id": "129559",
+          "title": "Tropical Storm (Dar and Kerry, #1)",
+          "title_without_series": "Tropical Storm",
+          "link": "https://www.goodreads.com/book/show/129559.Tropical_Storm",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "476",
+          "work": { "id": "124781" },
+          "isbn": "1932300600",
+          "isbn13": "9781932300604",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2006",
+          "publication_month": "7",
+          "publication_day": "23",
+          "authors": {
+            "author": {
+              "id": "74507",
+              "name": "Melissa Good",
+              "link": "https://www.goodreads.com/author/show/74507.Melissa_Good"
+            }
+          }
+        },
+        {
+          "id": "18190776",
+          "title": "Love Thy Neighbour",
+          "title_without_series": "Love Thy Neighbour",
+          "link": "https://www.goodreads.com/book/show/18190776-love-thy-neighbour",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406361668l/18190776._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406361668l/18190776._SX98_.jpg",
+          "num_pages": "24",
+          "work": { "id": "25593692" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "815922",
+              "name": "A.K. Naten",
+              "link": "https://www.goodreads.com/author/show/815922.A_K_Naten"
+            }
+          }
+        },
+        {
+          "id": "6069426",
+          "title": "Destiny",
+          "title_without_series": "Destiny",
+          "link": "https://www.goodreads.com/book/show/6069426-destiny",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "103",
+          "work": { "id": "6245809" },
+          "isbn": "",
+          "isbn13": "0001554107075",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2006",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "999635",
+              "name": "Kira Chase",
+              "link": "https://www.goodreads.com/author/show/999635.Kira_Chase"
+            }
+          }
+        },
+        {
+          "id": "2280972",
+          "title": "Private Passions",
+          "title_without_series": "Private Passions",
+          "link": "https://www.goodreads.com/book/show/2280972.Private_Passions",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355122344l/2280972._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355122344l/2280972._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "2287101" },
+          "isbn": "1562802151",
+          "isbn13": "9781562802158",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "135761",
+              "name": "Laura DeHart Young",
+              "link": "https://www.goodreads.com/author/show/135761.Laura_DeHart_Young"
+            }
+          }
+        },
+        {
+          "id": "17669605",
+          "title": "The Prize",
+          "title_without_series": "The Prize",
+          "link": "https://www.goodreads.com/book/show/17669605-the-prize",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378585025l/17669605._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378585025l/17669605._SX98_.jpg",
+          "num_pages": "34",
+          "work": { "id": "24666709" },
+          "isbn": "",
+          "isbn13": "9781554872817",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2010",
+          "publication_month": "7",
+          "publication_day": "1",
+          "authors": {
+            "author": {
+              "id": "999635",
+              "name": "Kira Chase",
+              "link": "https://www.goodreads.com/author/show/999635.Kira_Chase"
+            }
+          }
+        },
+        {
+          "id": "13236303",
+          "title": "The Writing on the Wall (Del & Lola, #1)",
+          "title_without_series": "The Writing on the Wall",
+          "link": "https://www.goodreads.com/book/show/13236303-the-writing-on-the-wall",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502614875l/13236303._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502614875l/13236303._SX98_.jpg",
+          "num_pages": "264",
+          "work": { "id": "18433825" },
+          "isbn": "1594932905",
+          "isbn13": "9781594932908",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2012",
+          "publication_month": "6",
+          "publication_day": "26",
+          "authors": {
+            "author": {
+              "id": "4788024",
+              "name": "Jenna Rae",
+              "link": "https://www.goodreads.com/author/show/4788024.Jenna_Rae"
+            }
+          }
+        },
+        {
+          "id": "15817952",
+          "title": "Seven Minutes in Heaven (The Lying Game, #6)",
+          "title_without_series": "Seven Minutes in Heaven",
+          "link": "https://www.goodreads.com/book/show/15817952-seven-minutes-in-heaven",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351415558l/15817952._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351415558l/15817952._SX98_.jpg",
+          "num_pages": "371",
+          "work": { "id": "21545437" },
+          "isbn": "0062128221",
+          "isbn13": "9780062128225",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2013",
+          "publication_month": "7",
+          "publication_day": "30",
+          "authors": {
+            "author": {
+              "id": "93970",
+              "name": "Sara Shepard",
+              "link": "https://www.goodreads.com/author/show/93970.Sara_Shepard"
+            }
+          }
+        },
+        {
+          "id": "7733",
+          "title": "Gulliver's Travels",
+          "title_without_series": "Gulliver's Travels",
+          "link": "https://www.goodreads.com/book/show/7733.Gulliver_s_Travels",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427829692l/7733._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427829692l/7733._SX98_.jpg",
+          "num_pages": "306",
+          "work": { "id": "2394716" },
+          "isbn": "0141439491",
+          "isbn13": "9780141439495",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2003",
+          "publication_month": "1",
+          "publication_day": "30",
+          "authors": {
+            "author": {
+              "id": "1831",
+              "name": "Jonathan Swift",
+              "link": "https://www.goodreads.com/author/show/1831.Jonathan_Swift"
+            }
+          }
+        },
+        {
+          "id": "32323507",
+          "title": "The Gift",
+          "title_without_series": "The Gift",
+          "link": "https://www.goodreads.com/book/show/32323507-the-gift",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508955068l/32323507._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508955068l/32323507._SX98_.jpg",
+          "num_pages": "65",
+          "work": { "id": "52956534" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2009",
+          "publication_month": "4",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "71090",
+              "name": "Meghan O'Brien",
+              "link": "https://www.goodreads.com/author/show/71090.Meghan_O_Brien"
+            }
+          }
+        },
+        {
+          "id": "18246747",
+          "title": "Endgame",
+          "title_without_series": "Endgame",
+          "link": "https://www.goodreads.com/book/show/18246747-endgame",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508957318l/18246747._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508957318l/18246747._SX98_.jpg",
+          "num_pages": "73",
+          "work": { "id": "25697795" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2002",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "71090",
+              "name": "Meghan O'Brien",
+              "link": "https://www.goodreads.com/author/show/71090.Meghan_O_Brien"
+            }
+          }
+        },
+        {
+          "id": "15716154",
+          "title": "Cross My Heart, Hope to Die (The Lying Game, #5)",
+          "title_without_series": "Cross My Heart, Hope to Die",
+          "link": "https://www.goodreads.com/book/show/15716154-cross-my-heart-hope-to-die",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340310216l/15716154._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340310216l/15716154._SX98_.jpg",
+          "num_pages": "321",
+          "work": { "id": "21386077" },
+          "isbn": "0062128191",
+          "isbn13": "9780062128195",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2013",
+          "publication_month": "2",
+          "publication_day": "5",
+          "authors": {
+            "author": {
+              "id": "93970",
+              "name": "Sara Shepard",
+              "link": "https://www.goodreads.com/author/show/93970.Sara_Shepard"
+            }
+          }
+        },
+        {
+          "id": "1257588",
+          "title": "Silent Heart",
+          "title_without_series": "Silent Heart",
+          "link": "https://www.goodreads.com/book/show/1257588.Silent_Heart",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361639395l/1257588._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361639395l/1257588._SX98_.jpg",
+          "num_pages": "203",
+          "work": { "id": "1246395" },
+          "isbn": "1594930449",
+          "isbn13": "9781594930447",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2005",
+          "publication_month": "9",
+          "publication_day": "1",
+          "authors": {
+            "author": {
+              "id": "16889",
+              "name": "Claire McNab",
+              "link": "https://www.goodreads.com/author/show/16889.Claire_McNab"
+            }
+          }
+        },
+        {
+          "id": "35249535",
+          "title": "Sex Sells - Eine lesbische Kurzgeschichte",
+          "title_without_series": "Sex Sells - Eine lesbische Kurzgeschichte",
+          "link": "https://www.goodreads.com/book/show/35249535-sex-sells---eine-lesbische-kurzgeschichte",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496004641l/35249535._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496004641l/35249535._SX98_.jpg",
+          "num_pages": "21",
+          "work": { "id": "56600637" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2016",
+          "publication_month": "6",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "2749820",
+              "name": "Jae",
+              "link": "https://www.goodreads.com/author/show/2749820.Jae"
+            }
+          }
+        },
+        {
+          "id": "11218174",
+          "title": "Looking Through Windows",
+          "title_without_series": "Looking Through Windows",
+          "link": "https://www.goodreads.com/book/show/11218174-looking-through-windows",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "265",
+          "work": { "id": "16143800" },
+          "isbn": "1590925955",
+          "isbn13": "9781590925959",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2008",
+          "publication_month": "8",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "4815447",
+              "name": "Caren J. Werlinger",
+              "link": "https://www.goodreads.com/author/show/4815447.Caren_J_Werlinger"
+            }
+          }
+        },
+        {
+          "id": "619962",
+          "title": "And Playing the Role of Herself",
+          "title_without_series": "And Playing the Role of Herself",
+          "link": "https://www.goodreads.com/book/show/619962.And_Playing_the_Role_of_Herself",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "606341" },
+          "isbn": "1932300724",
+          "isbn13": "9781932300727",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2007",
+          "publication_month": "1",
+          "publication_day": "7",
+          "authors": {
+            "author": {
+              "id": "335181",
+              "name": "K.E. Lane",
+              "link": "https://www.goodreads.com/author/show/335181.K_E_Lane"
+            }
+          }
+        },
+        {
+          "id": "31302227",
+          "title": "A marche forcée",
+          "title_without_series": "A marche forcée",
+          "link": "https://www.goodreads.com/book/show/31302227-a-marche-forc-e",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469969516l/31302227._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469969516l/31302227._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "51970330" },
+          "isbn": "2913066577",
+          "isbn13": "",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "11357525",
+              "name": "Kadyan",
+              "link": "https://www.goodreads.com/author/show/11357525.Kadyan"
+            }
+          }
+        },
+        {
+          "id": "12924312",
+          "title": "Hide and Seek (The Lying Game, #4)",
+          "title_without_series": "Hide and Seek",
+          "link": "https://www.goodreads.com/book/show/12924312-hide-and-seek",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321122514l/12924312._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321122514l/12924312._SX98_.jpg",
+          "num_pages": "288",
+          "work": { "id": "18079758" },
+          "isbn": "0061869767",
+          "isbn13": "9780061869761",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2012",
+          "publication_month": "7",
+          "publication_day": "31",
+          "authors": {
+            "author": {
+              "id": "93970",
+              "name": "Sara Shepard",
+              "link": "https://www.goodreads.com/author/show/93970.Sara_Shepard"
+            }
+          }
+        },
+        {
+          "id": "11103746",
+          "title": "Waiting in the Wings",
+          "title_without_series": "Waiting in the Wings",
+          "link": "https://www.goodreads.com/book/show/11103746-waiting-in-the-wings",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304664407l/11103746._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304664407l/11103746._SX98_.jpg",
+          "num_pages": "249",
+          "work": { "id": "16025897" },
+          "isbn": "1602825610",
+          "isbn13": "9781602825611",
+          "average_rating": "3.55",
+          "ratings_count": "156",
+          "publication_year": "2011",
+          "publication_month": "9",
+          "publication_day": "20",
+          "authors": {
+            "author": {
+              "id": "4789680",
+              "name": "Melissa Brayden",
+              "link": "https://www.goodreads.com/author/show/4789680.Melissa_Brayden"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "title": "[McKee 1] McKee - Unabridged",
+    "url": "https://www.google.com/search?q=[McKee 1] McKee - Unabridged",
+    "ratings_count": 0,
+    "publication_year": "-",
+    "description": "-",
+    "average_rating": 0,
+    "authors": {
+      "author": {
+        "name": "A. C. Henley ",
+        "link": "https://www.google.com/search?q=A. C. Henley "
+      }
+    },
+    "image_url": "https://dhmckee.com/wp-content/uploads/2018/11/defbookcover-min.jpg",
+    "small_image_url": "https://dhmckee.com/wp-content/uploads/2018/11/defbookcover-min.jpg"
+  },
+  {
+    "title": "[McKee 2] McKee the Return",
+    "url": "https://www.google.com/search?q=[McKee 2] McKee the Return",
+    "ratings_count": 0,
+    "publication_year": "-",
+    "description": "-",
+    "average_rating": 0,
+    "authors": {
+      "author": {
+        "name": "A. C. Henley ",
+        "link": "https://www.google.com/search?q=A. C. Henley "
+      }
+    },
+    "image_url": "https://dhmckee.com/wp-content/uploads/2018/11/defbookcover-min.jpg",
+    "small_image_url": "https://dhmckee.com/wp-content/uploads/2018/11/defbookcover-min.jpg"
+  },
+  {
+    "title": "Defining Moment",
+    "url": "https://www.google.com/search?q=Defining Moment",
+    "ratings_count": 0,
+    "publication_year": "-",
+    "description": "-",
+    "average_rating": 0,
+    "authors": {
+      "author": {
+        "name": "A. C. Henley ",
+        "link": "https://www.google.com/search?q=A. C. Henley "
+      }
+    },
+    "image_url": "https://dhmckee.com/wp-content/uploads/2018/11/defbookcover-min.jpg",
+    "small_image_url": "https://dhmckee.com/wp-content/uploads/2018/11/defbookcover-min.jpg"
+  },
+  {
+    "title": "Love Thy Neighbor",
+    "url": "https://www.google.com/search?q=Love Thy Neighbor",
+    "ratings_count": 0,
+    "publication_year": "-",
+    "description": "-",
+    "average_rating": 0,
+    "authors": {
+      "author": {
+        "name": "A. K. Naten ",
+        "link": "https://www.google.com/search?q=A. K. Naten "
+      }
+    },
+    "image_url": "https://dhmckee.com/wp-content/uploads/2018/11/defbookcover-min.jpg",
+    "small_image_url": "https://dhmckee.com/wp-content/uploads/2018/11/defbookcover-min.jpg"
+  },
+  {
+    "id": "17262043",
+    "title": "Second Son",
+    "isbn": "",
+    "isbn13": "",
+    "asin": "",
+    "kindle_asin": "",
+    "marketplace_id": "",
+    "country_code": "FR",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406360564l/17262043._SX98_.jpg",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406360564l/17262043._SX50_.jpg",
+    "publication_year": "2004",
+    "publication_month": "9",
+    "publication_day": "",
+    "publisher": "The Athenaeum",
+    "language_code": "eng",
+    "is_ebook": "true",
+    "description": "A Medieval-era tale that follows the story of two people who are brought together under less than ideal circumstances, and must learn to adapt to each other, as well as their new lives. Deception, heartache, and twists of fate complicate feelings and alter futures, and relationships struggle between bouts of love and despair.<br />Academy of Bards 2007 Hall of Fame<br /><br />Title: Second Son<br />Author: A.K. Naten<br />Published: 9-2004 online<br />Genre: Historical romance (Middle Ages)<br />Word count: 129,000 (approximate)",
+    "work": {
+      "id": { "_": "23858823", "type": "integer" },
+      "books_count": { "_": "1", "type": "integer" },
+      "best_book_id": { "_": "17262043", "type": "integer" },
+      "reviews_count": { "_": "103", "type": "integer" },
+      "ratings_sum": { "_": "230", "type": "integer" },
+      "ratings_count": { "_": "59", "type": "integer" },
+      "text_reviews_count": { "_": "5", "type": "integer" },
+      "original_publication_year": { "_": "2004", "type": "integer" },
+      "original_publication_month": { "_": "9", "type": "integer" },
+      "original_publication_day": { "_": "1", "type": "integer" },
+      "original_title": "",
+      "original_language_id": { "type": "integer", "nil": "true" },
+      "media_type": "book",
+      "rating_dist": "5:18|4:25|3:10|2:4|1:2|total:59",
+      "desc_user_id": { "_": "5658516", "type": "integer" },
+      "default_chaptering_book_id": { "type": "integer", "nil": "true" },
+      "default_description_language_code": { "nil": "true" },
+      "work_uri": "kca://work/amzn1.gr.work.v1.UEqbB7DRD0Jc5IEUafuC6g"
+    },
+    "average_rating": "3.90",
+    "num_pages": "",
+    "format": "ebook",
+    "edition_information": "online fiction",
+    "ratings_count": "59",
+    "text_reviews_count": "5",
+    "url": "https://www.goodreads.com/book/show/17262043-second-son",
+    "link": "https://www.goodreads.com/book/show/17262043-second-son",
+    "authors": {
+      "author": {
+        "id": "815922",
+        "name": "A.K. Naten",
+        "role": "",
+        "image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png\n",
+          "nophoto": "true"
+        },
+        "small_image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png\n",
+          "nophoto": "true"
+        },
+        "link": "https://www.goodreads.com/author/show/815922.A_K_Naten",
+        "average_rating": "3.71",
+        "ratings_count": "284",
+        "text_reviews_count": "21"
+      }
+    },
+    "reviews_widget": "\n \n <style>\n #goodreads-widget {\n font-family: georgia, serif;\n padding: 18px 0;\n width:565px;\n }\n #goodreads-widget h1 {\n font-weight:normal;\n font-size: 16px;\n border-bottom: 1px solid #BBB596;\n margin-bottom: 0;\n }\n #goodreads-widget a {\n text-decoration: none;\n color:#660;\n }\n iframe{\n background-color: #fff;\n }\n #goodreads-widget a:hover { text-decoration: underline; }\n #goodreads-widget a:active {\n color:#660;\n }\n #gr_footer {\n width: 100%;\n border-top: 1px solid #BBB596;\n text-align: right;\n }\n #goodreads-widget .gr_branding{\n color: #382110;\n font-size: 11px;\n text-decoration: none;\n font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n }\n</style>\n<div id=\"goodreads-widget\">\n <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/17262043-second-son\">Second Son Reviews</a></h1></div>\n <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\" width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n <div id=\"gr_footer\">\n <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" href=\"https://www.goodreads.com/book/show/17262043-second-son?utm_medium=api&amp;utm_source=reviews_widget\">Reviews from Goodreads.com</a>\n </div>\n</div>\n\n \n ",
+    "popular_shelves": {
+      "shelf": [
+        { "name": "to-read", "count": "29" },
+        { "name": "lesbian", "count": "6" },
+        { "name": "historical", "count": "5" },
+        { "name": "lgbt", "count": "2" },
+        { "name": "historical-romance", "count": "2" },
+        { "name": "women-dressed-as-men", "count": "2" },
+        { "name": "girlslove-read", "count": "1" },
+        { "name": "online-reads", "count": "1" },
+        { "name": "lazy", "count": "1" },
+        { "name": "masquerade", "count": "1" },
+        { "name": "adventure", "count": "1" },
+        { "name": "f-f-tbr", "count": "1" },
+        { "name": "o-romance", "count": "1" },
+        { "name": "currently-reading", "count": "1" },
+        { "name": "o-historical", "count": "1" },
+        { "name": "f-f-historical-romance", "count": "1" },
+        { "name": "f-f-hidden-identity", "count": "1" },
+        { "name": "f-f-favorites", "count": "1" },
+        { "name": "f-f-butch-femme-romance", "count": "1" },
+        { "name": "free-online", "count": "1" },
+        { "name": "ff", "count": "1" },
+        { "name": "quit-reading", "count": "1" },
+        { "name": "rapist", "count": "1" },
+        { "name": "protector", "count": "1" },
+        { "name": "lgbtq-loving", "count": "1" },
+        { "name": "erotica", "count": "1" },
+        { "name": "read-2018", "count": "1" },
+        { "name": "too-much-crying", "count": "1" },
+        { "name": "gender-bender", "count": "1" },
+        { "name": "fanfiction", "count": "1" },
+        { "name": "not-now", "count": "1" },
+        { "name": "butch-femme", "count": "1" },
+        { "name": "saved-for-later", "count": "1" },
+        { "name": "3-and-a-half-stars", "count": "1" },
+        { "name": "wyciskacz-łez", "count": "1" },
+        { "name": "romance", "count": "1" },
+        { "name": "angst-fests", "count": "1" },
+        { "name": "lesbian-family-fiction-romance", "count": "1" },
+        { "name": "crap", "count": "1" },
+        { "name": "uber", "count": "1" },
+        { "name": "fantasy", "count": "1" },
+        { "name": "my-stuff", "count": "1" },
+        { "name": "sword-and-board-world", "count": "1" },
+        { "name": "online", "count": "1" },
+        { "name": "knight", "count": "1" },
+        { "name": "crossing-cultures", "count": "1" },
+        { "name": "butch-fem", "count": "1" },
+        { "name": "brooding-heroine", "count": "1" },
+        { "name": "boss-employee", "count": "1" },
+        { "name": "angst", "count": "1" },
+        { "name": "electronic", "count": "1" },
+        { "name": "calibre", "count": "1" },
+        { "name": "unfinished-yet", "count": "1" },
+        { "name": "ff-romance", "count": "1" },
+        { "name": "free-reads", "count": "1" },
+        { "name": "deception", "count": "1" },
+        { "name": "women-disguised-as-men", "count": "1" },
+        { "name": "online-fiction", "count": "1" },
+        { "name": "l-books", "count": "1" },
+        { "name": "online-fiction-only", "count": "1" },
+        { "name": "f-f-butch-femme", "count": "-1" }
+      ]
+    },
+    "book_links": {
+      "book_link": {
+        "id": "8",
+        "name": "Libraries",
+        "link": "https://www.goodreads.com/book_link/follow/8"
+      }
+    },
+    "buy_links": {
+      "buy_link": [
+        {
+          "id": "1",
+          "name": "Amazon",
+          "link": "https://www.goodreads.com/book_link/follow/1"
+        },
+        {
+          "id": "10",
+          "name": "Audible",
+          "link": "https://www.goodreads.com/book_link/follow/10"
+        },
+        {
+          "id": "3",
+          "name": "Barnes & Noble",
+          "link": "https://www.goodreads.com/book_link/follow/3"
+        },
+        {
+          "id": "1027",
+          "name": "Walmart eBooks",
+          "link": "https://www.goodreads.com/book_link/follow/1027"
+        },
+        {
+          "id": "2102",
+          "name": "Apple Books",
+          "link": "https://www.goodreads.com/book_link/follow/2102"
+        },
+        {
+          "id": "8036",
+          "name": "Google Play",
+          "link": "https://www.goodreads.com/book_link/follow/8036"
+        },
+        {
+          "id": "4",
+          "name": "Abebooks",
+          "link": "https://www.goodreads.com/book_link/follow/4"
+        },
+        {
+          "id": "882",
+          "name": "Book Depository",
+          "link": "https://www.goodreads.com/book_link/follow/882"
+        },
+        {
+          "id": "5",
+          "name": "Alibris",
+          "link": "https://www.goodreads.com/book_link/follow/5"
+        },
+        {
+          "id": "9",
+          "name": "Indigo",
+          "link": "https://www.goodreads.com/book_link/follow/9"
+        },
+        {
+          "id": "107",
+          "name": "Better World Books",
+          "link": "https://www.goodreads.com/book_link/follow/107"
+        },
+        {
+          "id": "7",
+          "name": "IndieBound",
+          "link": "https://www.goodreads.com/book_link/follow/7"
+        }
+      ]
+    },
+    "series_works": "\n \n ",
+    "similar_books": {
+      "book": [
+        {
+          "id": "6080751",
+          "title": "Backwards to Oregon (The Oregon Series, #1)",
+          "title_without_series": "Backwards to Oregon",
+          "link": "https://www.goodreads.com/book/show/6080751-backwards-to-oregon",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419445224l/6080751._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419445224l/6080751._SX98_.jpg",
+          "num_pages": "465",
+          "work": { "id": "6257453" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2013",
+          "publication_month": "4",
+          "publication_day": "6",
+          "authors": {
+            "author": {
+              "id": "2749820",
+              "name": "Jae",
+              "link": "https://www.goodreads.com/author/show/2749820.Jae"
+            }
+          }
+        },
+        {
+          "id": "2828241",
+          "title": "Uncommon Emotions",
+          "title_without_series": "Uncommon Emotions",
+          "link": "https://www.goodreads.com/book/show/2828241-uncommon-emotions",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "2854344" },
+          "isbn": "1432718096",
+          "isbn13": "9781432718091",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "26257",
+              "name": "Lynn Galli",
+              "link": "https://www.goodreads.com/author/show/26257.Lynn_Galli"
+            }
+          }
+        },
+        {
+          "id": "596662",
+          "title": "Lady Knight",
+          "title_without_series": "Lady Knight",
+          "link": "https://www.goodreads.com/book/show/596662.Lady_Knight",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360795632l/596662._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360795632l/596662._SX98_.jpg",
+          "num_pages": "256",
+          "work": { "id": "583331" },
+          "isbn": "1933110759",
+          "isbn13": "9781933110752",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2007",
+          "publication_month": "4",
+          "publication_day": "1",
+          "authors": {
+            "author": {
+              "id": "4357231",
+              "name": "L.-J. Baker",
+              "link": "https://www.goodreads.com/author/show/4357231.L_J_Baker"
+            }
+          }
+        },
+        {
+          "id": "18406445",
+          "title": "About Face",
+          "title_without_series": "About Face",
+          "link": "https://www.goodreads.com/book/show/18406445-about-face",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384260357l/18406445._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384260357l/18406445._SX98_.jpg",
+          "num_pages": "264",
+          "work": { "id": "26041555" },
+          "isbn": "1626390797",
+          "isbn13": "9781626390799",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2014",
+          "publication_month": "8",
+          "publication_day": "19",
+          "authors": {
+            "author": {
+              "id": "4530738",
+              "name": "V.K. Powell",
+              "link": "https://www.goodreads.com/author/show/4530738.V_K_Powell"
+            }
+          }
+        },
+        {
+          "id": "36603996",
+          "title": "Freedom's Heart",
+          "title_without_series": "Freedom's Heart",
+          "link": "https://www.goodreads.com/book/show/36603996-freedom-s-heart",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525276101l/36603996._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525276101l/36603996._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "58358274" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "6892923",
+              "name": "Amber Jacobs",
+              "link": "https://www.goodreads.com/author/show/6892923.Amber_Jacobs"
+            }
+          }
+        },
+        {
+          "id": "11236791",
+          "title": "Hidden Truths (The Oregon Series, #2)",
+          "title_without_series": "Hidden Truths",
+          "link": "https://www.goodreads.com/book/show/11236791-hidden-truths",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408136518l/11236791._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408136518l/11236791._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "16162937" },
+          "isbn": "1934889733",
+          "isbn13": "9781934889732",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2011",
+          "publication_month": "4",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "2749820",
+              "name": "Jae",
+              "link": "https://www.goodreads.com/author/show/2749820.Jae"
+            }
+          }
+        },
+        {
+          "id": "48891097",
+          "title": "Corporate Lines",
+          "title_without_series": "Corporate Lines",
+          "link": "https://www.goodreads.com/book/show/48891097-corporate-lines",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574134500l/48891097._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574134500l/48891097._SX98_.jpg",
+          "num_pages": "268",
+          "work": { "id": "74283208" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2019",
+          "publication_month": "12",
+          "publication_day": "12",
+          "authors": {
+            "author": {
+              "id": "14175383",
+              "name": "Donna Jay",
+              "link": "https://www.goodreads.com/author/show/14175383.Donna_Jay"
+            }
+          }
+        },
+        {
+          "id": "48838621",
+          "title": "The Good Girl",
+          "title_without_series": "The Good Girl",
+          "link": "https://www.goodreads.com/book/show/48838621-the-good-girl",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "74218642" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "7395814",
+              "name": "Madeleine Taylor",
+              "link": "https://www.goodreads.com/author/show/7395814.Madeleine_Taylor"
+            }
+          }
+        },
+        {
+          "id": "314986",
+          "title": "Camille Claudel",
+          "title_without_series": "Camille Claudel",
+          "link": "https://www.goodreads.com/book/show/314986.Camille_Claudel",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "373",
+          "work": { "id": "305822" },
+          "isbn": "1562790269",
+          "isbn13": "9781562790264",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "1992",
+          "publication_month": "10",
+          "publication_day": "1",
+          "authors": {
+            "author": {
+              "id": "181186",
+              "name": "Anne Delbée",
+              "link": "https://www.goodreads.com/author/show/181186.Anne_Delb_e"
+            }
+          }
+        },
+        {
+          "id": "6558100",
+          "title": "Taming The Wolff",
+          "title_without_series": "Taming The Wolff",
+          "link": "https://www.goodreads.com/book/show/6558100-taming-the-wolff",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311024726l/6558100._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311024726l/6558100._SX98_.jpg",
+          "num_pages": "264",
+          "work": { "id": "6750744" },
+          "isbn": "1933113960",
+          "isbn13": "9781933113968",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2008",
+          "publication_month": "12",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "2965498",
+              "name": "Del Robertson",
+              "link": "https://www.goodreads.com/author/show/2965498.Del_Robertson"
+            }
+          }
+        },
+        {
+          "id": "37800894",
+          "title": "Gold",
+          "title_without_series": "Gold",
+          "link": "https://www.goodreads.com/book/show/37800894-gold",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527432156l/37800894._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527432156l/37800894._SX98_.jpg",
+          "num_pages": "283",
+          "work": { "id": "59468703" },
+          "isbn": "1594936102",
+          "isbn13": "9781594936104",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2018",
+          "publication_month": "6",
+          "publication_day": "14",
+          "authors": {
+            "author": {
+              "id": "15582690",
+              "name": "E.J. Noyes",
+              "link": "https://www.goodreads.com/author/show/15582690.E_J_Noyes"
+            }
+          }
+        },
+        {
+          "id": "28695917",
+          "title": "Camp Rewind",
+          "title_without_series": "Camp Rewind",
+          "link": "https://www.goodreads.com/book/show/28695917-camp-rewind",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456963422l/28695917._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456963422l/28695917._SX98_.jpg",
+          "num_pages": "264",
+          "work": { "id": "48893626" },
+          "isbn": "1626397937",
+          "isbn13": "9781626397934",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2016",
+          "publication_month": "10",
+          "publication_day": "18",
+          "authors": {
+            "author": {
+              "id": "71090",
+              "name": "Meghan O'Brien",
+              "link": "https://www.goodreads.com/author/show/71090.Meghan_O_Brien"
+            }
+          }
+        },
+        {
+          "id": "32320796",
+          "title": "The Romanov Sisters",
+          "title_without_series": "The Romanov Sisters",
+          "link": "https://www.goodreads.com/book/show/32320796-the-romanov-sisters",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "54695612" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "1306686",
+              "name": "Svetlana R. Ivanova",
+              "link": "https://www.goodreads.com/author/show/1306686.Svetlana_R_Ivanova"
+            }
+          }
+        },
+        {
+          "id": "35692410",
+          "title": "Mask of the Highwaywoman",
+          "title_without_series": "Mask of the Highwaywoman",
+          "link": "https://www.goodreads.com/book/show/35692410-mask-of-the-highwaywoman",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500281832l/35692410._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500281832l/35692410._SX98_.jpg",
+          "num_pages": "222",
+          "work": { "id": "22263921" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2015",
+          "publication_month": "2",
+          "publication_day": "4",
+          "authors": {
+            "author": {
+              "id": "6440423",
+              "name": "Niamh Murphy",
+              "link": "https://www.goodreads.com/author/show/6440423.Niamh_Murphy"
+            }
+          }
+        },
+        {
+          "id": "28536792",
+          "title": "Unravel",
+          "title_without_series": "Unravel",
+          "link": "https://www.goodreads.com/book/show/28536792-unravel",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "48696419" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "14917461",
+              "name": "Rebecca S. Lazaro",
+              "link": "https://www.goodreads.com/author/show/14917461.Rebecca_S_Lazaro"
+            }
+          }
+        },
+        {
+          "id": "25050815",
+          "title": "Ana Adored: Mistress of the Castle (Masters of the Castle)",
+          "title_without_series": "Ana Adored: Mistress of the Castle",
+          "link": "https://www.goodreads.com/book/show/25050815-ana-adored",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "44730514" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "6643486",
+              "name": "Anastasia Vitsky",
+              "link": "https://www.goodreads.com/author/show/6643486.Anastasia_Vitsky"
+            }
+          }
+        },
+        {
+          "id": "6773700",
+          "title": "The Midnight Hunt (Midnight Hunters, #1)",
+          "title_without_series": "The Midnight Hunt",
+          "link": "https://www.goodreads.com/book/show/6773700-the-midnight-hunt",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "288",
+          "work": { "id": "6973813" },
+          "isbn": "1602821402",
+          "isbn13": "9781602821408",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "2010",
+          "publication_month": "3",
+          "publication_day": "16",
+          "authors": {
+            "author": {
+              "id": "3045001",
+              "name": "L.L. Raand",
+              "link": "https://www.goodreads.com/author/show/3045001.L_L_Raand"
+            }
+          }
+        },
+        {
+          "id": "32283457",
+          "title": "Hades: Goddess of the Underworld",
+          "title_without_series": "Hades: Goddess of the Underworld",
+          "link": "https://www.goodreads.com/book/show/32283457-hades",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "52910915" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.90",
+          "ratings_count": "59",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "1306686",
+              "name": "Svetlana R. Ivanova",
+              "link": "https://www.goodreads.com/author/show/1306686.Svetlana_R_Ivanova"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "1782326",
+    "title": "Turning Tides",
+    "isbn": "1932300473",
+    "isbn13": "9781932300475",
+    "asin": "",
+    "kindle_asin": "",
+    "marketplace_id": "",
+    "country_code": "FR",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "publication_year": "2005",
+    "publication_month": "9",
+    "publication_day": "17",
+    "publisher": "Yellow Rose by Rce",
+    "language_code": "",
+    "is_ebook": "false",
+    "description": "Allison Phillips is looking to escape a life of continual disappointment. When the constant berating of her family and the reminders of her failures finally weigh too heavily on her shoulders, she moves away from her unhappy past to start life anew. Allison takes a position with Whitton, Incorporated, a large construction and property development company in Jacksonville, Florida. She moves away from her childhood home, hoping to jump-start her career and improve her life. <br /><br />M.J. Whitton, the newly-installed president of her ailing father's company, is intelligent, controlling, hot-tempered, and devastatingly beautiful. An admitted flirt and womanizer, M.J. runs her company as she runs her personal life – with ruthless domination, no strings or emotions attached. When Allison joins the staff, M.J. doesn't quite know what to think of her nor is Allison sure how to handle the mercurial president. Brought together by professional circumstance, the two women wind up working closely together and forge an uneasy alliance. But personalities and desires clash repeatedly as one crisis after another is thrown into their path, and their professional and personal relationship quickly sours. After several agonizing months, Allison must make a decision. Is M.J. worth the struggle? Should she stay at Whitton, Inc.? Which way will the tides turn?",
+    "work": {
+      "id": { "_": "1781173", "type": "integer" },
+      "books_count": { "_": "3", "type": "integer" },
+      "best_book_id": { "_": "1782326", "type": "integer" },
+      "reviews_count": { "_": "289", "type": "integer" },
+      "ratings_sum": { "_": "645", "type": "integer" },
+      "ratings_count": { "_": "171", "type": "integer" },
+      "text_reviews_count": { "_": "11", "type": "integer" },
+      "original_publication_year": { "_": "2004", "type": "integer" },
+      "original_publication_month": { "_": "11", "type": "integer" },
+      "original_publication_day": { "_": "30", "type": "integer" },
+      "original_title": "Turning Tides",
+      "original_language_id": { "type": "integer", "nil": "true" },
+      "media_type": "book",
+      "rating_dist": "5:49|4:61|3:40|2:15|1:6|total:171",
+      "desc_user_id": { "_": "5658516", "type": "integer" },
+      "default_chaptering_book_id": { "type": "integer", "nil": "true" },
+      "default_description_language_code": { "nil": "true" },
+      "work_uri": "kca://work/amzn1.gr.work.v1.qhuQMJdXH9Zmxds-LdnGnQ"
+    },
+    "average_rating": "3.77",
+    "num_pages": "352",
+    "format": "Paperback",
+    "edition_information": "",
+    "ratings_count": "147",
+    "text_reviews_count": "9",
+    "url": "https://www.goodreads.com/book/show/1782326.Turning_Tides",
+    "link": "https://www.goodreads.com/book/show/1782326.Turning_Tides",
+    "authors": {
+      "author": {
+        "id": "815922",
+        "name": "A.K. Naten",
+        "role": "",
+        "image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png\n",
+          "nophoto": "true"
+        },
+        "small_image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png\n",
+          "nophoto": "true"
+        },
+        "link": "https://www.goodreads.com/author/show/815922.A_K_Naten",
+        "average_rating": "3.71",
+        "ratings_count": "284",
+        "text_reviews_count": "21"
+      }
+    },
+    "reviews_widget": "\n \n <style>\n #goodreads-widget {\n font-family: georgia, serif;\n padding: 18px 0;\n width:565px;\n }\n #goodreads-widget h1 {\n font-weight:normal;\n font-size: 16px;\n border-bottom: 1px solid #BBB596;\n margin-bottom: 0;\n }\n #goodreads-widget a {\n text-decoration: none;\n color:#660;\n }\n iframe{\n background-color: #fff;\n }\n #goodreads-widget a:hover { text-decoration: underline; }\n #goodreads-widget a:active {\n color:#660;\n }\n #gr_footer {\n width: 100%;\n border-top: 1px solid #BBB596;\n text-align: right;\n }\n #goodreads-widget .gr_branding{\n color: #382110;\n font-size: 11px;\n text-decoration: none;\n font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n }\n</style>\n<div id=\"goodreads-widget\">\n <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/1782326.Turning_Tides\">Turning Tides Reviews</a></h1></div>\n <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=1932300473&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\" width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n <div id=\"gr_footer\">\n <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" href=\"https://www.goodreads.com/book/show/1782326.Turning_Tides?utm_medium=api&amp;utm_source=reviews_widget\">Reviews from Goodreads.com</a>\n </div>\n</div>\n\n \n ",
+    "popular_shelves": {
+      "shelf": [
+        { "name": "to-read", "count": "76" },
+        { "name": "lesbian", "count": "10" },
+        { "name": "falling-for-the-boss", "count": "5" },
+        { "name": "favorites", "count": "5" },
+        { "name": "rich-girl-poor-girl", "count": "4" },
+        { "name": "ff-romance", "count": "3" },
+        { "name": "angst", "count": "3" },
+        { "name": "angst-fests", "count": "3" },
+        { "name": "fanfiction", "count": "2" },
+        { "name": "re-read", "count": "2" },
+        { "name": "boss-employee", "count": "2" },
+        { "name": "player-reputation", "count": "2" },
+        { "name": "lesbian-romance", "count": "2" },
+        { "name": "ff", "count": "2" },
+        { "name": "romance", "count": "2" },
+        { "name": "lgbt", "count": "2" },
+        { "name": "sapphic", "count": "1" },
+        { "name": "player", "count": "1" },
+        { "name": "ice-queen", "count": "1" },
+        { "name": "2-and-lower", "count": "1" },
+        { "name": "business", "count": "1" },
+        { "name": "i-will", "count": "1" },
+        { "name": "yay-lesfic", "count": "1" },
+        { "name": "splendid-stuff", "count": "1" },
+        { "name": "xwp", "count": "1" },
+        { "name": "lgbtqia", "count": "1" },
+        { "name": "don-t-remember-reading", "count": "1" },
+        { "name": "ff-soulmates", "count": "1" },
+        { "name": "lazy", "count": "1" },
+        { "name": "0-lesfic", "count": "1" },
+        { "name": "old-reads-to-skim-n-sort", "count": "1" },
+        { "name": "a-not-sorted-yet", "count": "1" },
+        { "name": "01-unsorted", "count": "1" },
+        { "name": "0-not-shelved", "count": "1" },
+        { "name": "1-lesfic", "count": "1" },
+        { "name": "f-f", "count": "1" },
+        { "name": "ff-new-love-drama", "count": "1" },
+        { "name": "1-read-ff-fiction", "count": "1" },
+        { "name": "lgbtq-loving", "count": "1" },
+        { "name": "erotica", "count": "1" },
+        { "name": "damaged-woman", "count": "1" },
+        { "name": "billionaires", "count": "1" },
+        { "name": "amazing", "count": "1" },
+        { "name": "falls-for-co-worker", "count": "1" },
+        { "name": "read-2018", "count": "1" },
+        { "name": "ff-series-xxx", "count": "1" },
+        { "name": "tbr-boss-employee", "count": "1" },
+        { "name": "f-x", "count": "1" },
+        { "name": "web-version", "count": "1" },
+        { "name": "bdsm", "count": "1" },
+        { "name": "corporate", "count": "1" },
+        { "name": "saved-for-later", "count": "1" },
+        { "name": "commitment-issues", "count": "1" },
+        { "name": "4-stars", "count": "1" },
+        { "name": "angsty", "count": "1" },
+        { "name": "e-books", "count": "1" },
+        { "name": "fiction", "count": "1" },
+        { "name": "folder", "count": "1" },
+        { "name": "all-time-favorites", "count": "1" },
+        { "name": "my-stuff", "count": "1" },
+        { "name": "can-t-get", "count": "1" },
+        { "name": "i-own-this-book", "count": "1" },
+        { "name": "dislikeable-main-character", "count": "1" },
+        { "name": "butch-fem", "count": "1" },
+        { "name": "businesspeople", "count": "1" },
+        { "name": "brooding-heroine", "count": "1" },
+        { "name": "american-south", "count": "1" },
+        { "name": "electronic", "count": "1" },
+        { "name": "trough-the-years", "count": "1" },
+        { "name": "at-the-office", "count": "1" },
+        { "name": "businesswoman", "count": "1" },
+        { "name": "femme-femme", "count": "1" },
+        { "name": "business-exec", "count": "1" },
+        { "name": "rich-poor", "count": "1" },
+        { "name": "reformed-player", "count": "1" },
+        { "name": "lesbian-romances", "count": "1" },
+        { "name": "l", "count": "1" },
+        { "name": "one-of-the-best", "count": "1" },
+        { "name": "favoris", "count": "1" },
+        { "name": "tissues-required", "count": "1" },
+        { "name": "romance-yes-i-said-that", "count": "1" },
+        { "name": "best", "count": "1" },
+        { "name": "a", "count": "1" },
+        { "name": "owned", "count": "1" },
+        { "name": "read-2012-2013", "count": "1" },
+        { "name": "f-f-romance-and-fiction", "count": "1" },
+        { "name": "have", "count": "1" },
+        { "name": "p", "count": "1" },
+        { "name": "currently-reading", "count": "1" },
+        { "name": "no-for-kids", "count": "1" },
+        { "name": "daddy-dark-s-baby-warrior-list", "count": "1" },
+        { "name": "l-books", "count": "1" },
+        { "name": "read-online-and-published", "count": "1" },
+        { "name": "a-sure-thing", "count": "-1" },
+        { "name": "past-reads-cant-recall-to-sort", "count": "-1" },
+        { "name": "0-need-a-refresher", "count": "-1" },
+        { "name": "0-shelved-not-yet", "count": "-1" },
+        { "name": "0-completed-lesfic-reads", "count": "-1" },
+        { "name": "theme-new-love-drama", "count": "-1" },
+        { "name": "fsdafsd", "count": "-1" }
+      ]
+    },
+    "book_links": {
+      "book_link": {
+        "id": "8",
+        "name": "Libraries",
+        "link": "https://www.goodreads.com/book_link/follow/8"
+      }
+    },
+    "buy_links": {
+      "buy_link": [
+        {
+          "id": "1",
+          "name": "Amazon",
+          "link": "https://www.goodreads.com/book_link/follow/1"
+        },
+        {
+          "id": "10",
+          "name": "Audible",
+          "link": "https://www.goodreads.com/book_link/follow/10"
+        },
+        {
+          "id": "3",
+          "name": "Barnes & Noble",
+          "link": "https://www.goodreads.com/book_link/follow/3"
+        },
+        {
+          "id": "1027",
+          "name": "Walmart eBooks",
+          "link": "https://www.goodreads.com/book_link/follow/1027"
+        },
+        {
+          "id": "2102",
+          "name": "Apple Books",
+          "link": "https://www.goodreads.com/book_link/follow/2102"
+        },
+        {
+          "id": "8036",
+          "name": "Google Play",
+          "link": "https://www.goodreads.com/book_link/follow/8036"
+        },
+        {
+          "id": "4",
+          "name": "Abebooks",
+          "link": "https://www.goodreads.com/book_link/follow/4"
+        },
+        {
+          "id": "882",
+          "name": "Book Depository",
+          "link": "https://www.goodreads.com/book_link/follow/882"
+        },
+        {
+          "id": "5",
+          "name": "Alibris",
+          "link": "https://www.goodreads.com/book_link/follow/5"
+        },
+        {
+          "id": "9",
+          "name": "Indigo",
+          "link": "https://www.goodreads.com/book_link/follow/9"
+        },
+        {
+          "id": "107",
+          "name": "Better World Books",
+          "link": "https://www.goodreads.com/book_link/follow/107"
+        },
+        {
+          "id": "7",
+          "name": "IndieBound",
+          "link": "https://www.goodreads.com/book_link/follow/7"
+        }
+      ]
+    },
+    "series_works": "\n \n ",
+    "similar_books": {
+      "book": [
+        {
+          "id": "33598365",
+          "title": "Born Out of Wedlock",
+          "title_without_series": "Born Out of Wedlock",
+          "link": "https://www.goodreads.com/book/show/33598365-born-out-of-wedlock",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "54416416" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "6872972",
+              "name": "Lyn Gardner",
+              "link": "https://www.goodreads.com/author/show/6872972.Lyn_Gardner"
+            }
+          }
+        },
+        {
+          "id": "17691937",
+          "title": "An Infatuation",
+          "title_without_series": "An Infatuation",
+          "link": "https://www.goodreads.com/book/show/17691937-an-infatuation",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364233448l/17691937._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364233448l/17691937._SX98_.jpg",
+          "num_pages": "338",
+          "work": { "id": "24717065" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2013",
+          "publication_month": "3",
+          "publication_day": "18",
+          "authors": {
+            "author": {
+              "id": "7019579",
+              "name": "Jennifer Lyndon",
+              "link": "https://www.goodreads.com/author/show/7019579.Jennifer_Lyndon"
+            }
+          }
+        },
+        {
+          "id": "31127282",
+          "title": "Slow Burn in Tuscany",
+          "title_without_series": "Slow Burn in Tuscany",
+          "link": "https://www.goodreads.com/book/show/31127282-slow-burn-in-tuscany",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "51741635" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "14299882",
+              "name": "Giselle Fox",
+              "link": "https://www.goodreads.com/author/show/14299882.Giselle_Fox"
+            }
+          }
+        },
+        {
+          "id": "16728634",
+          "title": "Ice",
+          "title_without_series": "Ice",
+          "link": "https://www.goodreads.com/book/show/16728634-ice",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356949036l/16728634._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356949036l/16728634._SX98_.jpg",
+          "num_pages": "210",
+          "work": { "id": "22969775" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2012",
+          "publication_month": "11",
+          "publication_day": "25",
+          "authors": {
+            "author": {
+              "id": "6872972",
+              "name": "Lyn Gardner",
+              "link": "https://www.goodreads.com/author/show/6872972.Lyn_Gardner"
+            }
+          }
+        },
+        {
+          "id": "37789475",
+          "title": "Playing the Spy",
+          "title_without_series": "Playing the Spy",
+          "link": "https://www.goodreads.com/book/show/37789475-playing-the-spy",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514824552l/37789475._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514824552l/37789475._SX98_.jpg",
+          "num_pages": "274",
+          "work": { "id": "59446209" },
+          "isbn": "1594935750",
+          "isbn13": "9781594935756",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2018",
+          "publication_month": "1",
+          "publication_day": "18",
+          "authors": {
+            "author": {
+              "id": "8179717",
+              "name": "Maggie Brown",
+              "link": "https://www.goodreads.com/author/show/8179717.Maggie_Brown"
+            }
+          }
+        },
+        {
+          "id": "11236791",
+          "title": "Hidden Truths (The Oregon Series, #2)",
+          "title_without_series": "Hidden Truths",
+          "link": "https://www.goodreads.com/book/show/11236791-hidden-truths",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408136518l/11236791._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408136518l/11236791._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "16162937" },
+          "isbn": "1934889733",
+          "isbn13": "9781934889732",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2011",
+          "publication_month": "4",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "2749820",
+              "name": "Jae",
+              "link": "https://www.goodreads.com/author/show/2749820.Jae"
+            }
+          }
+        },
+        {
+          "id": "41662515",
+          "title": "Breaking Character",
+          "title_without_series": "Breaking Character",
+          "link": "https://www.goodreads.com/book/show/41662515-breaking-character",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540398925l/41662515._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540398925l/41662515._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "65003939" },
+          "isbn": "3963241136",
+          "isbn13": "9783963241130",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2018",
+          "publication_month": "11",
+          "publication_day": "15",
+          "authors": {
+            "author": {
+              "id": "14249034",
+              "name": "Lee Winter",
+              "link": "https://www.goodreads.com/author/show/14249034.Lee_Winter"
+            }
+          }
+        },
+        {
+          "id": "36224876",
+          "title": "A Scarlet Kiss",
+          "title_without_series": "A Scarlet Kiss",
+          "link": "https://www.goodreads.com/book/show/36224876-a-scarlet-kiss",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "57863185" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "7419902",
+              "name": "Heidi Lowe",
+              "link": "https://www.goodreads.com/author/show/7419902.Heidi_Lowe"
+            }
+          }
+        },
+        {
+          "id": "24796481",
+          "title": "Piping Her Tune",
+          "title_without_series": "Piping Her Tune",
+          "link": "https://www.goodreads.com/book/show/24796481-piping-her-tune",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438641723l/24796481._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438641723l/24796481._SX98_.jpg",
+          "num_pages": "240",
+          "work": { "id": "44432589" },
+          "isbn": "1594934606",
+          "isbn13": "9781594934605",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2015",
+          "publication_month": "9",
+          "publication_day": "29",
+          "authors": {
+            "author": {
+              "id": "8179717",
+              "name": "Maggie Brown",
+              "link": "https://www.goodreads.com/author/show/8179717.Maggie_Brown"
+            }
+          }
+        },
+        {
+          "id": "30069169",
+          "title": "Requiem for Immortals",
+          "title_without_series": "Requiem for Immortals",
+          "link": "https://www.goodreads.com/book/show/30069169-requiem-for-immortals",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462128162l/30069169._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462128162l/30069169._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "50485109" },
+          "isbn": "3955337103",
+          "isbn13": "9783955337100",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2016",
+          "publication_month": "8",
+          "publication_day": "3",
+          "authors": {
+            "author": {
+              "id": "14249034",
+              "name": "Lee Winter",
+              "link": "https://www.goodreads.com/author/show/14249034.Lee_Winter"
+            }
+          }
+        },
+        {
+          "id": "116284",
+          "title": "Love's Masquerade",
+          "title_without_series": "Love's Masquerade",
+          "link": "https://www.goodreads.com/book/show/116284.Love_s_Masquerade",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360777441l/116284._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360777441l/116284._SX98_.jpg",
+          "num_pages": "224",
+          "work": { "id": "111986" },
+          "isbn": "1933110147",
+          "isbn13": "9781933110141",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2005",
+          "publication_month": "9",
+          "publication_day": "1",
+          "authors": {
+            "author": {
+              "id": "19666",
+              "name": "Radclyffe",
+              "link": "https://www.goodreads.com/author/show/19666.Radclyffe"
+            }
+          }
+        },
+        {
+          "id": "16083879",
+          "title": "Forbidden Passion",
+          "title_without_series": "Forbidden Passion",
+          "link": "https://www.goodreads.com/book/show/16083879-forbidden-passion",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350140625l/16083879._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350140625l/16083879._SX98_.jpg",
+          "num_pages": "378",
+          "work": { "id": "21884566" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2012",
+          "publication_month": "8",
+          "publication_day": "5",
+          "authors": {
+            "author": {
+              "id": "307234",
+              "name": "Ruth Gogoll",
+              "link": "https://www.goodreads.com/author/show/307234.Ruth_Gogoll"
+            }
+          }
+        },
+        {
+          "id": "17290894",
+          "title": "How Sweet It Is",
+          "title_without_series": "How Sweet It Is",
+          "link": "https://www.goodreads.com/book/show/17290894-how-sweet-it-is",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363658184l/17290894._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363658184l/17290894._SX98_.jpg",
+          "num_pages": "264",
+          "work": { "id": "23913152" },
+          "isbn": "1602829586",
+          "isbn13": "9781602829589",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2013",
+          "publication_month": "11",
+          "publication_day": "19",
+          "authors": {
+            "author": {
+              "id": "4789680",
+              "name": "Melissa Brayden",
+              "link": "https://www.goodreads.com/author/show/4789680.Melissa_Brayden"
+            }
+          }
+        },
+        {
+          "id": "35820467",
+          "title": "Meet Me Halfway",
+          "title_without_series": "Meet Me Halfway",
+          "link": "https://www.goodreads.com/book/show/35820467-meet-me-halfway",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "57322195" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "16084348",
+              "name": "Eija Jimenez",
+              "link": "https://www.goodreads.com/author/show/16084348.Eija_Jimenez"
+            }
+          }
+        },
+        {
+          "id": "18406445",
+          "title": "About Face",
+          "title_without_series": "About Face",
+          "link": "https://www.goodreads.com/book/show/18406445-about-face",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384260357l/18406445._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384260357l/18406445._SX98_.jpg",
+          "num_pages": "264",
+          "work": { "id": "26041555" },
+          "isbn": "1626390797",
+          "isbn13": "9781626390799",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2014",
+          "publication_month": "8",
+          "publication_day": "19",
+          "authors": {
+            "author": {
+              "id": "4530738",
+              "name": "V.K. Powell",
+              "link": "https://www.goodreads.com/author/show/4530738.V_K_Powell"
+            }
+          }
+        },
+        {
+          "id": "7962312",
+          "title": "Love Waits",
+          "title_without_series": "Love Waits",
+          "link": "https://www.goodreads.com/book/show/7962312-love-waits",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328752820l/7962312._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328752820l/7962312._SX98_.jpg",
+          "num_pages": "264",
+          "work": { "id": "11850392" },
+          "isbn": "1594931860",
+          "isbn13": "9781594931864",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2010",
+          "publication_month": "7",
+          "publication_day": "20",
+          "authors": {
+            "author": {
+              "id": "129676",
+              "name": "Gerri Hill",
+              "link": "https://www.goodreads.com/author/show/129676.Gerri_Hill"
+            }
+          }
+        },
+        {
+          "id": "46003599",
+          "title": "If the Shoe Fits",
+          "title_without_series": "If the Shoe Fits",
+          "link": "https://www.goodreads.com/book/show/46003599-if-the-shoe-fits",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566736130l/46003599._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566736130l/46003599._SX98_.jpg",
+          "num_pages": "298",
+          "work": { "id": "70869311" },
+          "isbn": "1642470562",
+          "isbn13": "9781642470567",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "2019",
+          "publication_month": "11",
+          "publication_day": "15",
+          "authors": {
+            "author": {
+              "id": "15582690",
+              "name": "E.J. Noyes",
+              "link": "https://www.goodreads.com/author/show/15582690.E_J_Noyes"
+            }
+          }
+        },
+        {
+          "id": "35833518",
+          "title": "Kiss & Tell",
+          "title_without_series": "Kiss & Tell",
+          "link": "https://www.goodreads.com/book/show/35833518-kiss-tell",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "57340166" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "3.77",
+          "ratings_count": "171",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "11183145",
+              "name": "Cynthia Dane",
+              "link": "https://www.goodreads.com/author/show/11183145.Cynthia_Dane"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "18190829",
+    "title": "Unspoken Question",
+    "isbn": "",
+    "isbn13": "",
+    "asin": "",
+    "kindle_asin": "",
+    "marketplace_id": "",
+    "country_code": "FR",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406362310l/18190829._SX98_.jpg",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406362310l/18190829._SY75_.jpg",
+    "publication_year": "",
+    "publication_month": "",
+    "publication_day": "",
+    "publisher": "Academy of Bards",
+    "language_code": "eng",
+    "is_ebook": "true",
+    "description": "Joanna goes to visit her ailing father John. She is feeling guilty that her sister Georgina is always the one who visits. Upon arrival she meets the captivating Claire Green. Sadly Claire is very much married; even if it's a destructive and unhappy marriage. Joanna and Claire's attraction is an instantaneous one. Their love seems to be star crossed but Destiny has a way of throwing the people meant to be right back at each other.",
+    "work": {
+      "id": { "_": "25593789", "type": "integer" },
+      "books_count": { "_": "1", "type": "integer" },
+      "best_book_id": { "_": "18190829", "type": "integer" },
+      "reviews_count": { "_": "39", "type": "integer" },
+      "ratings_sum": { "_": "65", "type": "integer" },
+      "ratings_count": { "_": "22", "type": "integer" },
+      "text_reviews_count": { "_": "2", "type": "integer" },
+      "original_publication_year": { "type": "integer", "nil": "true" },
+      "original_publication_month": { "type": "integer", "nil": "true" },
+      "original_publication_day": { "type": "integer", "nil": "true" },
+      "original_title": "",
+      "original_language_id": { "type": "integer", "nil": "true" },
+      "media_type": "book",
+      "rating_dist": "5:3|4:2|3:10|2:5|1:2|total:22",
+      "desc_user_id": { "_": "5658516", "type": "integer" },
+      "default_chaptering_book_id": { "type": "integer", "nil": "true" },
+      "default_description_language_code": { "nil": "true" },
+      "work_uri": "kca://work/amzn1.gr.work.v1.pBDArFgpBI-AhSITc984sw"
+    },
+    "average_rating": "2.95",
+    "num_pages": "20",
+    "format": "ebook",
+    "edition_information": "online fiction",
+    "ratings_count": "22",
+    "text_reviews_count": "2",
+    "url": "https://www.goodreads.com/book/show/18190829-unspoken-question",
+    "link": "https://www.goodreads.com/book/show/18190829-unspoken-question",
+    "authors": {
+      "author": {
+        "id": "815922",
+        "name": "A.K. Naten",
+        "role": "",
+        "image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png\n",
+          "nophoto": "true"
+        },
+        "small_image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png\n",
+          "nophoto": "true"
+        },
+        "link": "https://www.goodreads.com/author/show/815922.A_K_Naten",
+        "average_rating": "3.71",
+        "ratings_count": "284",
+        "text_reviews_count": "21"
+      }
+    },
+    "reviews_widget": "\n \n <style>\n #goodreads-widget {\n font-family: georgia, serif;\n padding: 18px 0;\n width:565px;\n }\n #goodreads-widget h1 {\n font-weight:normal;\n font-size: 16px;\n border-bottom: 1px solid #BBB596;\n margin-bottom: 0;\n }\n #goodreads-widget a {\n text-decoration: none;\n color:#660;\n }\n iframe{\n background-color: #fff;\n }\n #goodreads-widget a:hover { text-decoration: underline; }\n #goodreads-widget a:active {\n color:#660;\n }\n #gr_footer {\n width: 100%;\n border-top: 1px solid #BBB596;\n text-align: right;\n }\n #goodreads-widget .gr_branding{\n color: #382110;\n font-size: 11px;\n text-decoration: none;\n font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n }\n</style>\n<div id=\"goodreads-widget\">\n <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/18190829-unspoken-question\">Unspoken Question Reviews</a></h1></div>\n <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\" width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n <div id=\"gr_footer\">\n <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" href=\"https://www.goodreads.com/book/show/18190829-unspoken-question?utm_medium=api&amp;utm_source=reviews_widget\">Reviews from Goodreads.com</a>\n </div>\n</div>\n\n \n ",
+    "popular_shelves": {
+      "shelf": [
+        { "name": "to-read", "count": "10" },
+        { "name": "bad", "count": "1" },
+        { "name": "don-t-remember-reading", "count": "1" },
+        { "name": "ff", "count": "1" },
+        { "name": "lgbtq-loving", "count": "1" },
+        { "name": "read-2018", "count": "1" },
+        { "name": "lgbt-fic", "count": "1" },
+        { "name": "lesbian", "count": "1" },
+        { "name": "my-stuff-done", "count": "1" },
+        { "name": "electronic", "count": "1" },
+        { "name": "reads-2015", "count": "1" },
+        { "name": "english", "count": "1" },
+        { "name": "calibre", "count": "1" },
+        { "name": "good-just-ok", "count": "1" },
+        { "name": "er", "count": "1" },
+        { "name": "2015-my-stuff-done", "count": "-1" }
+      ]
+    },
+    "book_links": {
+      "book_link": {
+        "id": "8",
+        "name": "Libraries",
+        "link": "https://www.goodreads.com/book_link/follow/8"
+      }
+    },
+    "buy_links": {
+      "buy_link": [
+        {
+          "id": "1",
+          "name": "Amazon",
+          "link": "https://www.goodreads.com/book_link/follow/1"
+        },
+        {
+          "id": "10",
+          "name": "Audible",
+          "link": "https://www.goodreads.com/book_link/follow/10"
+        },
+        {
+          "id": "3",
+          "name": "Barnes & Noble",
+          "link": "https://www.goodreads.com/book_link/follow/3"
+        },
+        {
+          "id": "1027",
+          "name": "Walmart eBooks",
+          "link": "https://www.goodreads.com/book_link/follow/1027"
+        },
+        {
+          "id": "2102",
+          "name": "Apple Books",
+          "link": "https://www.goodreads.com/book_link/follow/2102"
+        },
+        {
+          "id": "8036",
+          "name": "Google Play",
+          "link": "https://www.goodreads.com/book_link/follow/8036"
+        },
+        {
+          "id": "4",
+          "name": "Abebooks",
+          "link": "https://www.goodreads.com/book_link/follow/4"
+        },
+        {
+          "id": "882",
+          "name": "Book Depository",
+          "link": "https://www.goodreads.com/book_link/follow/882"
+        },
+        {
+          "id": "5",
+          "name": "Alibris",
+          "link": "https://www.goodreads.com/book_link/follow/5"
+        },
+        {
+          "id": "9",
+          "name": "Indigo",
+          "link": "https://www.goodreads.com/book_link/follow/9"
+        },
+        {
+          "id": "107",
+          "name": "Better World Books",
+          "link": "https://www.goodreads.com/book_link/follow/107"
+        },
+        {
+          "id": "7",
+          "name": "IndieBound",
+          "link": "https://www.goodreads.com/book_link/follow/7"
+        }
+      ]
+    },
+    "series_works": "\n \n ",
+    "similar_books": {
+      "book": [
+        {
+          "id": "14762161",
+          "title": "Falling Snow",
+          "title_without_series": "Falling Snow",
+          "link": "https://www.goodreads.com/book/show/14762161-falling-snow",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338821803l/14762161._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338821803l/14762161._SX98_.jpg",
+          "num_pages": "172",
+          "work": { "id": "20414671" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2012",
+          "publication_month": "5",
+          "publication_day": "10",
+          "authors": {
+            "author": {
+              "id": "6154988",
+              "name": "Graysen Morgen",
+              "link": "https://www.goodreads.com/author/show/6154988.Graysen_Morgen"
+            }
+          }
+        },
+        {
+          "id": "22817263",
+          "title": "The Player",
+          "title_without_series": "The Player",
+          "link": "https://www.goodreads.com/book/show/22817263-the-player",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406314376l/22817263._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406314376l/22817263._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "42367376" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2010",
+          "publication_month": "3",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "8415627",
+              "name": "Weebod",
+              "link": "https://www.goodreads.com/author/show/8415627.Weebod"
+            }
+          }
+        },
+        {
+          "id": "2187342",
+          "title": "Thirteen Hours",
+          "title_without_series": "Thirteen Hours",
+          "link": "https://www.goodreads.com/book/show/2187342.Thirteen_Hours",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360776117l/2187342._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360776117l/2187342._SX98_.jpg",
+          "num_pages": "288",
+          "work": { "id": "2193049" },
+          "isbn": "1602820147",
+          "isbn13": "9781602820142",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2008",
+          "publication_month": "4",
+          "publication_day": "22",
+          "authors": {
+            "author": {
+              "id": "71090",
+              "name": "Meghan O'Brien",
+              "link": "https://www.goodreads.com/author/show/71090.Meghan_O_Brien"
+            }
+          }
+        },
+        {
+          "id": "1861196",
+          "title": "All The Pretty Girls (Taylor Jackson, #1)",
+          "title_without_series": "All The Pretty Girls",
+          "link": "https://www.goodreads.com/book/show/1861196.All_The_Pretty_Girls",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424756098l/1861196._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424756098l/1861196._SX98_.jpg",
+          "num_pages": "411",
+          "work": { "id": "1861871" },
+          "isbn": "0778324435",
+          "isbn13": "9780778324430",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2007",
+          "publication_month": "10",
+          "publication_day": "16",
+          "authors": {
+            "author": {
+              "id": "1311949",
+              "name": "J.T. Ellison",
+              "link": "https://www.goodreads.com/author/show/1311949.J_T_Ellison"
+            }
+          }
+        },
+        {
+          "id": "6576866",
+          "title": "The Seduction of Moxie",
+          "title_without_series": "The Seduction of Moxie",
+          "link": "https://www.goodreads.com/book/show/6576866-the-seduction-of-moxie",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "275",
+          "work": { "id": "6770237" },
+          "isbn": "1602821143",
+          "isbn13": "9781602821149",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2009",
+          "publication_month": "9",
+          "publication_day": "15",
+          "authors": {
+            "author": {
+              "id": "2846052",
+              "name": "Colette Moody",
+              "link": "https://www.goodreads.com/author/show/2846052.Colette_Moody"
+            }
+          }
+        },
+        {
+          "id": "43980644",
+          "title": "Gentleman Jack (Movie Tie-In): The Real Anne Lister",
+          "title_without_series": "Gentleman Jack (Movie Tie-In): The Real Anne Lister",
+          "link": "https://www.goodreads.com/book/show/43980644-gentleman-jack-movie-tie-in",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556121772l/43980644._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556121772l/43980644._SX98_.jpg",
+          "num_pages": "258",
+          "work": { "id": "68376916" },
+          "isbn": "0143134566",
+          "isbn13": "9780143134565",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2019",
+          "publication_month": "4",
+          "publication_day": "30",
+          "authors": {
+            "author": {
+              "id": "18178309",
+              "name": "Anne Choma",
+              "link": "https://www.goodreads.com/author/show/18178309.Anne_Choma"
+            }
+          }
+        },
+        {
+          "id": "22817165",
+          "title": "Conflict of Interests",
+          "title_without_series": "Conflict of Interests",
+          "link": "https://www.goodreads.com/book/show/22817165-conflict-of-interests",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406313013l/22817165._SX50_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406313013l/22817165._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "42367244" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2005",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "8415627",
+              "name": "Weebod",
+              "link": "https://www.goodreads.com/author/show/8415627.Weebod"
+            }
+          }
+        },
+        {
+          "id": "18406404",
+          "title": "Kiss the Girl (Soho Loft, #1)",
+          "title_without_series": "Kiss the Girl",
+          "link": "https://www.goodreads.com/book/show/18406404-kiss-the-girl",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384260344l/18406404._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384260344l/18406404._SX98_.jpg",
+          "num_pages": "305",
+          "work": { "id": "26041514" },
+          "isbn": "1626390711",
+          "isbn13": "9781626390713",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2014",
+          "publication_month": "7",
+          "publication_day": "15",
+          "authors": {
+            "author": {
+              "id": "4789680",
+              "name": "Melissa Brayden",
+              "link": "https://www.goodreads.com/author/show/4789680.Melissa_Brayden"
+            }
+          }
+        },
+        {
+          "id": "33539583",
+          "title": "Munich",
+          "title_without_series": "Munich",
+          "link": "https://www.goodreads.com/book/show/33539583-munich",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489391219l/33539583._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489391219l/33539583._SX98_.jpg",
+          "num_pages": "352",
+          "work": { "id": "54306435" },
+          "isbn": "1473519691",
+          "isbn13": "9781473519695",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2017",
+          "publication_month": "9",
+          "publication_day": "21",
+          "authors": {
+            "author": {
+              "id": "575",
+              "name": "Robert Harris",
+              "link": "https://www.goodreads.com/author/show/575.Robert_Harris"
+            }
+          }
+        },
+        {
+          "id": "43561172",
+          "title": "The Second Sleep",
+          "title_without_series": "The Second Sleep",
+          "link": "https://www.goodreads.com/book/show/43561172-the-second-sleep",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550329466l/43561172._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550329466l/43561172._SX98_.jpg",
+          "num_pages": "",
+          "work": { "id": "67772414" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "575",
+              "name": "Robert Harris",
+              "link": "https://www.goodreads.com/author/show/575.Robert_Harris"
+            }
+          }
+        },
+        {
+          "id": "22817255",
+          "title": "Innocent Catch",
+          "title_without_series": "Innocent Catch",
+          "link": "https://www.goodreads.com/book/show/22817255-innocent-catch",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406314237l/22817255._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406314237l/22817255._SY160_.jpg",
+          "num_pages": "316",
+          "work": { "id": "42367367" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2009",
+          "publication_month": "10",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "8415627",
+              "name": "Weebod",
+              "link": "https://www.goodreads.com/author/show/8415627.Weebod"
+            }
+          }
+        },
+        {
+          "id": "6257440",
+          "title": "The Sublime and Spirited Voyage of Original Sin",
+          "title_without_series": "The Sublime and Spirited Voyage of Original Sin",
+          "link": "https://www.goodreads.com/book/show/6257440-the-sublime-and-spirited-voyage-of-original-sin",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "234",
+          "work": { "id": "6440571" },
+          "isbn": "1602820546",
+          "isbn13": "9781602820548",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2009",
+          "publication_month": "3",
+          "publication_day": "9",
+          "authors": {
+            "author": {
+              "id": "2846052",
+              "name": "Colette Moody",
+              "link": "https://www.goodreads.com/author/show/2846052.Colette_Moody"
+            }
+          }
+        },
+        {
+          "id": "8610844",
+          "title": "Parties in Congress",
+          "title_without_series": "Parties in Congress",
+          "link": "https://www.goodreads.com/book/show/8610844-parties-in-congress",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "258",
+          "work": { "id": "13481187" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2011",
+          "publication_month": "2",
+          "publication_day": "14",
+          "authors": {
+            "author": {
+              "id": "2846052",
+              "name": "Colette Moody",
+              "link": "https://www.goodreads.com/author/show/2846052.Colette_Moody"
+            }
+          }
+        },
+        {
+          "id": "22750233",
+          "title": "Just Three Words (Soho Loft, #2)",
+          "title_without_series": "Just Three Words",
+          "link": "https://www.goodreads.com/book/show/22750233-just-three-words",
+          "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416873467l/22750233._SY75_.jpg",
+          "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416873467l/22750233._SX98_.jpg",
+          "num_pages": "271",
+          "work": { "id": "42295527" },
+          "isbn": "1626393354",
+          "isbn13": "9781626393356",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "2015",
+          "publication_month": "4",
+          "publication_day": "21",
+          "authors": {
+            "author": {
+              "id": "4789680",
+              "name": "Melissa Brayden",
+              "link": "https://www.goodreads.com/author/show/4789680.Melissa_Brayden"
+            }
+          }
+        },
+        {
+          "id": "29434444",
+          "title": "Hidden Witch (Torrent Witches #3)",
+          "title_without_series": "Hidden Witch",
+          "link": "https://www.goodreads.com/book/show/29434444-hidden-witch",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "49700834" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "14720348",
+              "name": "Tess Lake",
+              "link": "https://www.goodreads.com/author/show/14720348.Tess_Lake"
+            }
+          }
+        },
+        {
+          "id": "29082450",
+          "title": "Treasure Witch (Torrent Witches #2)",
+          "title_without_series": "Treasure Witch",
+          "link": "https://www.goodreads.com/book/show/29082450-treasure-witch",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "49314569" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "14720348",
+              "name": "Tess Lake",
+              "link": "https://www.goodreads.com/author/show/14720348.Tess_Lake"
+            }
+          }
+        },
+        {
+          "id": "28018176",
+          "title": "Butter Witch (Torrent Witches #1)",
+          "title_without_series": "Butter Witch",
+          "link": "https://www.goodreads.com/book/show/28018176-butter-witch",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "48028878" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "14720348",
+              "name": "Tess Lake",
+              "link": "https://www.goodreads.com/author/show/14720348.Tess_Lake"
+            }
+          }
+        },
+        {
+          "id": "31449567",
+          "title": "Fabulous Witch (Torrent Witches #4)",
+          "title_without_series": "Fabulous Witch",
+          "link": "https://www.goodreads.com/book/show/31449567-fabulous-witch",
+          "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+          "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+          "num_pages": "",
+          "work": { "id": "52152421" },
+          "isbn": "",
+          "isbn13": "",
+          "average_rating": "2.95",
+          "ratings_count": "22",
+          "publication_year": "",
+          "publication_month": "",
+          "publication_day": "",
+          "authors": {
+            "author": {
+              "id": "14720348",
+              "name": "Tess Lake",
+              "link": "https://www.goodreads.com/author/show/14720348.Tess_Lake"
+            }
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "8547687",
+    "title": "Almost Blinded to Love",
+    "isbn": "",
+    "isbn13": "",
+    "asin": "B002I2JG8A",
+    "kindle_asin": "",
+    "marketplace_id": "",
+    "country_code": "FR",
+    "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "publication_year": "",
+    "publication_month": "",
+    "publication_day": "",
+    "publisher": "",
+    "language_code": "",
+    "is_ebook": "true",
+    "description": "",
+    "work": {
+      "id": { "_": "13415596", "type": "integer" },
+      "books_count": { "_": "3", "type": "integer" },
+      "best_book_id": { "_": "8547687", "type": "integer" },
+      "reviews_count": { "_": "94", "type": "integer" },
+      "ratings_sum": { "_": "106", "type": "integer" },
+      "ratings_count": { "_": "36", "type": "integer" },
+      "text_reviews_count": { "_": "3", "type": "integer" },
+      "original_publication_year": { "_": "2009", "type": "integer" },
+      "original_publication_month": { "_": "7", "type": "integer" },
+      "original_publication_day": { "_": "18", "type": "integer" },
+      "original_title": { "nil": "true" },
+      "original_language_id": { "type": "integer", "nil": "true" },
+      "media_type": { "nil": "true" },
+      "rating_dist": "5:7|4:6|3:8|2:8|1:7|total:36",
+      "desc_user_id": { "_": "-30", "type": "integer" },
+      "default_chaptering_book_id": { "type": "integer", "nil": "true" },
+      "default_description_language_code": { "nil": "true" },
+      "work_uri": "kca://work/amzn1.gr.work.v1.gDC_WGvCnpAmlWJRMYdsSg"
+    },
+    "average_rating": "2.94",
+    "num_pages": "",
+    "format": "",
+    "edition_information": "",
+    "ratings_count": "35",
+    "text_reviews_count": "3",
+    "url": "https://www.goodreads.com/book/show/8547687-almost-blinded-to-love",
+    "link": "https://www.goodreads.com/book/show/8547687-almost-blinded-to-love",
+    "authors": {
+      "author": {
+        "id": "3131103",
+        "name": "A. Mistory",
+        "role": "",
+        "image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png\n",
+          "nophoto": "true"
+        },
+        "small_image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png\n",
+          "nophoto": "true"
+        },
+        "link": "https://www.goodreads.com/author/show/3131103.A_Mistory",
+        "average_rating": "3.38",
+        "ratings_count": "56",
+        "text_reviews_count": "4"
+      }
+    },
+    "reviews_widget": "\n \n <style>\n #goodreads-widget {\n font-family: georgia, serif;\n padding: 18px 0;\n width:565px;\n }\n #goodreads-widget h1 {\n font-weight:normal;\n font-size: 16px;\n border-bottom: 1px solid #BBB596;\n margin-bottom: 0;\n }\n #goodreads-widget a {\n text-decoration: none;\n color:#660;\n }\n iframe{\n background-color: #fff;\n }\n #goodreads-widget a:hover { text-decoration: underline; }\n #goodreads-widget a:active {\n color:#660;\n }\n #gr_footer {\n width: 100%;\n border-top: 1px solid #BBB596;\n text-align: right;\n }\n #goodreads-widget .gr_branding{\n color: #382110;\n font-size: 11px;\n text-decoration: none;\n font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n }\n</style>\n<div id=\"goodreads-widget\">\n <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/8547687-almost-blinded-to-love\">Almost Blinded to Love Reviews</a></h1></div>\n <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=B002I2JG8A&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\" width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n <div id=\"gr_footer\">\n <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" href=\"https://www.goodreads.com/book/show/8547687-almost-blinded-to-love?utm_medium=api&amp;utm_source=reviews_widget\">Reviews from Goodreads.com</a>\n </div>\n</div>\n\n \n ",
+    "popular_shelves": {
+      "shelf": [
+        { "name": "to-read", "count": "36" },
+        { "name": "lesbian", "count": "4" },
+        { "name": "currently-reading", "count": "2" },
+        { "name": "ff", "count": "2" },
+        { "name": "short", "count": "2" },
+        { "name": "romance", "count": "2" },
+        { "name": "e-books", "count": "2" },
+        { "name": "bad", "count": "1" },
+        { "name": "lgbt", "count": "1" },
+        { "name": "e-reader", "count": "1" },
+        { "name": "read-2018", "count": "1" },
+        { "name": "new", "count": "1" },
+        { "name": "bdsm", "count": "1" },
+        { "name": "lgbt-fic", "count": "1" },
+        { "name": "read-more-2k16-owned", "count": "1" },
+        { "name": "electronic", "count": "1" },
+        { "name": "calibre", "count": "1" },
+        { "name": "erotica", "count": "1" },
+        { "name": "epub", "count": "1" },
+        { "name": "glbt", "count": "1" },
+        { "name": "ff-romances", "count": "1" },
+        { "name": "lesbian-romance", "count": "1" },
+        { "name": "books-i-have-on-ipod", "count": "1" },
+        { "name": "ebook-version", "count": "-1" }
+      ]
+    },
+    "book_links": {
+      "book_link": {
+        "id": "8",
+        "name": "Libraries",
+        "link": "https://www.goodreads.com/book_link/follow/8"
+      }
+    },
+    "buy_links": {
+      "buy_link": [
+        {
+          "id": "1",
+          "name": "Amazon",
+          "link": "https://www.goodreads.com/book_link/follow/1"
+        },
+        {
+          "id": "10",
+          "name": "Audible",
+          "link": "https://www.goodreads.com/book_link/follow/10"
+        },
+        {
+          "id": "3",
+          "name": "Barnes & Noble",
+          "link": "https://www.goodreads.com/book_link/follow/3"
+        },
+        {
+          "id": "1027",
+          "name": "Walmart eBooks",
+          "link": "https://www.goodreads.com/book_link/follow/1027"
+        },
+        {
+          "id": "2102",
+          "name": "Apple Books",
+          "link": "https://www.goodreads.com/book_link/follow/2102"
+        },
+        {
+          "id": "8036",
+          "name": "Google Play",
+          "link": "https://www.goodreads.com/book_link/follow/8036"
+        },
+        {
+          "id": "4",
+          "name": "Abebooks",
+          "link": "https://www.goodreads.com/book_link/follow/4"
+        },
+        {
+          "id": "882",
+          "name": "Book Depository",
+          "link": "https://www.goodreads.com/book_link/follow/882"
+        },
+        {
+          "id": "5",
+          "name": "Alibris",
+          "link": "https://www.goodreads.com/book_link/follow/5"
+        },
+        {
+          "id": "9",
+          "name": "Indigo",
+          "link": "https://www.goodreads.com/book_link/follow/9"
+        },
+        {
+          "id": "107",
+          "name": "Better World Books",
+          "link": "https://www.goodreads.com/book_link/follow/107"
+        },
+        {
+          "id": "7",
+          "name": "IndieBound",
+          "link": "https://www.goodreads.com/book_link/follow/7"
+        }
+      ]
+    },
+    "series_works": "\n \n "
+  },
+  {
+    "id": "21666242",
+    "title": "Diana’s journey to lesbianism",
+    "isbn": "",
+    "isbn13": "9781465944078",
+    "asin": "",
+    "kindle_asin": "",
+    "marketplace_id": "",
+    "country_code": "FR",
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399667256l/21666242._SY160_.jpg",
+    "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399667256l/21666242._SY75_.jpg",
+    "publication_year": "2011",
+    "publication_month": "8",
+    "publication_day": "17",
+    "publisher": "Smashwords Edition",
+    "language_code": "",
+    "is_ebook": "true",
+    "description": "This is a semi-fictional story about a girl named Diana. She is what you call heaven on earth. She has a white complection with blonde hair and Hazel eyes. An angel, a bird a princess, oh! How can I describe such beauty. Such a soft skin, her sweet caress, that pinkish hue on her cheeks, is she a girl or a soft feathery pillow – well you tell me. I’m just lost in translation. She is 17 by the way, so you can’t call her anything offensive, well let me tell you, you shouldn’t. To be in her presence is like being surrounded by an angel.",
+    "work": {
+      "id": { "_": "40960740", "type": "integer" },
+      "books_count": { "_": "2", "type": "integer" },
+      "best_book_id": { "_": "21666242", "type": "integer" },
+      "reviews_count": { "_": "19", "type": "integer" },
+      "ratings_sum": { "_": "9", "type": "integer" },
+      "ratings_count": { "_": "4", "type": "integer" },
+      "text_reviews_count": { "_": "1", "type": "integer" },
+      "original_publication_year": { "_": "2011", "type": "integer" },
+      "original_publication_month": { "_": "8", "type": "integer" },
+      "original_publication_day": { "_": "17", "type": "integer" },
+      "original_title": { "nil": "true" },
+      "original_language_id": { "type": "integer", "nil": "true" },
+      "media_type": { "nil": "true" },
+      "rating_dist": "5:0|4:1|3:1|2:0|1:2|total:4",
+      "desc_user_id": { "_": "-1007", "type": "integer" },
+      "default_chaptering_book_id": { "type": "integer", "nil": "true" },
+      "default_description_language_code": { "nil": "true" },
+      "work_uri": "kca://work/amzn1.gr.work.v1.Bt7VSPLRuyBxoU7zXdruEQ"
+    },
+    "average_rating": "2.25",
+    "num_pages": "",
+    "format": "ebook",
+    "edition_information": "",
+    "ratings_count": "3",
+    "text_reviews_count": "1",
+    "url": "https://www.goodreads.com/book/show/21666242-diana-s-journey-to-lesbianism",
+    "link": "https://www.goodreads.com/book/show/21666242-diana-s-journey-to-lesbianism",
+    "authors": {
+      "author": {
+        "id": "542036",
+        "name": "Adam King",
+        "role": "",
+        "image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png\n",
+          "nophoto": "true"
+        },
+        "small_image_url": {
+          "_": "\nhttps://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png\n",
+          "nophoto": "true"
+        },
+        "link": "https://www.goodreads.com/author/show/542036.Adam_King",
+        "average_rating": "4.15",
+        "ratings_count": "74",
+        "text_reviews_count": "7"
+      }
+    },
+    "reviews_widget": "\n \n <style>\n #goodreads-widget {\n font-family: georgia, serif;\n padding: 18px 0;\n width:565px;\n }\n #goodreads-widget h1 {\n font-weight:normal;\n font-size: 16px;\n border-bottom: 1px solid #BBB596;\n margin-bottom: 0;\n }\n #goodreads-widget a {\n text-decoration: none;\n color:#660;\n }\n iframe{\n background-color: #fff;\n }\n #goodreads-widget a:hover { text-decoration: underline; }\n #goodreads-widget a:active {\n color:#660;\n }\n #gr_footer {\n width: 100%;\n border-top: 1px solid #BBB596;\n text-align: right;\n }\n #goodreads-widget .gr_branding{\n color: #382110;\n font-size: 11px;\n text-decoration: none;\n font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n }\n</style>\n<div id=\"goodreads-widget\">\n <div id=\"gr_header\"><h1><a rel=\"nofollow\" href=\"https://www.goodreads.com/book/show/21666242-diana-s-journey-to-lesbianism\">Diana’s journey to lesbianism Reviews</a></h1></div>\n <iframe id=\"the_iframe\" src=\"https://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;format=html&amp;isbn=9781465944078&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;stars=000&amp;text=000\" width=\"565\" height=\"400\" frameborder=\"0\"></iframe>\n <div id=\"gr_footer\">\n <a class=\"gr_branding\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" href=\"https://www.goodreads.com/book/show/21666242-diana-s-journey-to-lesbianism?utm_medium=api&amp;utm_source=reviews_widget\">Reviews from Goodreads.com</a>\n </div>\n</div>\n\n \n ",
+    "popular_shelves": {
+      "shelf": [
+        { "name": "to-read", "count": "8" },
+        { "name": "lesbian", "count": "2" },
+        { "name": "google-drive", "count": "1" },
+        { "name": "ff", "count": "1" },
+        { "name": "1-o-n-read", "count": "1" },
+        { "name": "bad", "count": "1" },
+        { "name": "not-for-me", "count": "1" },
+        { "name": "read-2018", "count": "1" },
+        { "name": "electronic", "count": "1" },
+        { "name": "calibre", "count": "1" }
+      ]
+    },
+    "book_links": {
+      "book_link": {
+        "id": "8",
+        "name": "Libraries",
+        "link": "https://www.goodreads.com/book_link/follow/8"
+      }
+    },
+    "buy_links": {
+      "buy_link": [
+        {
+          "id": "1",
+          "name": "Amazon",
+          "link": "https://www.goodreads.com/book_link/follow/1"
+        },
+        {
+          "id": "10",
+          "name": "Audible",
+          "link": "https://www.goodreads.com/book_link/follow/10"
+        },
+        {
+          "id": "3",
+          "name": "Barnes & Noble",
+          "link": "https://www.goodreads.com/book_link/follow/3"
+        },
+        {
+          "id": "1027",
+          "name": "Walmart eBooks",
+          "link": "https://www.goodreads.com/book_link/follow/1027"
+        },
+        {
+          "id": "2102",
+          "name": "Apple Books",
+          "link": "https://www.goodreads.com/book_link/follow/2102"
+        },
+        {
+          "id": "8036",
+          "name": "Google Play",
+          "link": "https://www.goodreads.com/book_link/follow/8036"
+        },
+        {
+          "id": "4",
+          "name": "Abebooks",
+          "link": "https://www.goodreads.com/book_link/follow/4"
+        },
+        {
+          "id": "882",
+          "name": "Book Depository",
+          "link": "https://www.goodreads.com/book_link/follow/882"
+        },
+        {
+          "id": "5",
+          "name": "Alibris",
+          "link": "https://www.goodreads.com/book_link/follow/5"
+        },
+        {
+          "id": "9",
+          "name": "Indigo",
+          "link": "https://www.goodreads.com/book_link/follow/9"
+        },
+        {
+          "id": "107",
+          "name": "Better World Books",
+          "link": "https://www.goodreads.com/book_link/follow/107"
+        },
+        {
+          "id": "7",
+          "name": "IndieBound",
+          "link": "https://www.goodreads.com/book_link/follow/7"
+        }
+      ]
+    },
+    "series_works": "\n \n "
+  }
+]

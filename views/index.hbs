@@ -1,0 +1,101 @@
+<div id="list">
+   <div class="row">
+      {{#each books}}
+      <div class="col l4 m6 s12">
+         <div class="card horizontal medium">
+            <div class="card-image">
+               <img src="{{image_url}}">
+            </div>
+            <div class="card-stacked">
+               <div class="card-content">
+                  <a href="{{url}}" target="_blank" class="bookTitle">{{title}}</a> by
+                  <a href="{{authors.author.link}}">{{authors.author.name}}</a> <br>
+                  <p class="details">
+                     {{average_rating}} avg rating - {{ratings_count}} ratings - published
+                     {{publication_year}}
+                  </p>
+                  <fieldset class="rating">
+                     <input type="radio" id="star5" name="rating" value="5" disabled {{starChecked average_rating 5}} />
+                     <label class="full" for="star5" title="Awesome - 5 stars"></label>
+                     <input type="radio" id="star4half" name="rating" value="4 and a half" disabled
+                        {{starChecked average_rating 4.5}} />
+                     <label class="half" for="star4half" title="Pretty good - 4.5 stars"></label>
+                     <input type="radio" id="star4" name="rating" value="4" disabled {{starChecked average_rating 4}} />
+                     <label class="full" for="star4" title="Pretty good - 4 stars"></label>
+                     <input type="radio" id="star3half" name="rating" value="3 and a half" disabled
+                        {{starChecked average_rating 3.5}} />
+                     <label class="half" for="star3half" title="Meh - 3.5 stars"></label>
+                     <input type="radio" id="star3" name="rating" value="3" disabled {{starChecked average_rating 3}} />
+                     <label class="full" for="star3" title="Meh - 3 stars"></label>
+                     <input type="radio" id="star2half" name="rating" value="2 and a half" disabled
+                        {{starChecked average_rating 2.5}} />
+                     <label class="half" for="star2half" title="Kinda bad - 2.5 stars"></label>
+                     <input type="radio" id="star2" name="rating" value="2" disabled {{starChecked average_rating 2}} />
+                     <label class="full" for="star2" title="Kinda bad - 2 stars"></label>
+                     <input type="radio" id="star1half" name="rating" value="1 and a half" disabled
+                        {{starChecked average_rating 1.5}} />
+                     <label class="half" for="star1half" title="Meh - 1.5 stars"></label>
+                     <input type="radio" id="star1" name="rating" value="1" disabled {{starChecked average_rating 1}} />
+                     <label class="full" for="star1" title="Sucks big time - 1 star"></label>
+                     <input type="radio" id="starhalf" name="rating" value="half" disabled
+                        {{starChecked average_rating 0.5}} />
+                     <label class="half" for="starhalf" title="Sucks big time - 0.5 stars"></label>
+                  </fieldset> <br> <br>
+                  <a href="{{url}}" target="_blank" class="description">
+                     {{sanitize description}}
+                  </a>
+               </div>
+            </div>
+         </div>
+      </div>
+      {{/each}}
+   </div>
+   <!--div class="row">
+      {{#times 0}}
+      <div class="col l4 m6 s12">
+         <div class="card horizontal large">
+            <div class="card-image">
+               <img
+                  src="https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60">
+            </div>
+            <div class="card-stacked">
+               <div class="card-content">
+                  <a href="google.com" target="_blank" class="bookTitle">Book Title</a> by
+                  <a href="google.com">Author Name</a> <br>
+                  <p class="details">
+                     3.5 avg rating - 200 ratings - published 2020
+                  </p>
+                  <fieldset class="rating">
+                     <input type="radio" id="star5" name="rating" value="5" disabled />
+                     <label class="full" for="star5" title="Awesome - 5 stars"></label>
+                     <input type="radio" id="star4half" name="rating" value="4 and a half" disabled />
+                     <label class="half" for="star4half" title="Pretty good - 4.5 stars"></label>
+                     <input type="radio" id="star4" name="rating" value="4" disabled />
+                     <label class="full" for="star4" title="Pretty good - 4 stars"></label>
+                     <input type="radio" id="star3half" name="rating" value="3 and a half" disabled />
+                     <label class="half" for="star3half" title="Meh - 3.5 stars"></label>
+                     <input type="radio" id="star3" name="rating" value="3" disabled />
+                     <label class="full" for="star3" title="Meh - 3 stars"></label>
+                     <input type="radio" id="star2half" name="rating" value="2 and a half" disabled />
+                     <label class="half" for="star2half" title="Kinda bad - 2.5 stars"></label>
+                     <input type="radio" id="star2" name="rating" value="2" disabled />
+                     <label class="full" for="star2" title="Kinda bad - 2 stars"></label>
+                     <input type="radio" id="star1half" name="rating" value="1 and a half" disabled />
+                     <label class="half" for="star1half" title="Meh - 1.5 stars"></label>
+                     <input type="radio" id="star1" name="rating" value="1" disabled />
+                     <label class="full" for="star1" title="Sucks big time - 1 star"></label>
+                     <input type="radio" id="starhalf" name="rating" value="half" disabled />
+                     <label class="half" for="starhalf" title="Sucks big time - 0.5 stars"></label>
+                  </fieldset> <br> <br>
+                  <p class="description">
+                     <a href="google.com" target="_blank" class="description">
+                        {{lorem}}
+                     </a>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </div>
+      {{/times}}
+   </div-->
+</div>
